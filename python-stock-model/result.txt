@@ -1,0 +1,760 @@
+----------------------------------------------------------------------------
+code name is 600000.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 10.18, Cost: 9443.42, Comm 94.43
+2020-03-06, SELL EXECUTED, Price: 10.65, Cost: 9443.42, Comm 98.83
+2020-03-06, OPERATION PROFIT, GROSS 440.06, NET 246.79
+2020-03-13, BUY EXECUTED, Price: 9.86, Cost: 9508.03, Comm 95.08
+2020-04-16, SELL EXECUTED, Price: 9.58, Cost: 9508.03, Comm 92.34
+2020-04-16, OPERATION PROFIT, GROSS -274.26, NET -461.68
+2020-05-07, BUY EXECUTED, Price: 9.91, Cost: 9286.14, Comm 92.86
+2020-08-05, SELL EXECUTED, Price: 10.64, Cost: 9286.14, Comm 99.70
+2020-08-05, OPERATION PROFIT, GROSS 683.54, NET 490.98
+2020-09-08, BUY EXECUTED, Price: 10.07, Cost: 9818.25, Comm 98.18
+2020-12-31, SELL EXECUTED, Price: 9.51, Cost: 9818.25, Comm 92.72
+2020-12-31, OPERATION PROFIT, GROSS -546.00, NET -736.91
+2021-01-29, BUY EXECUTED, Price: 9.69, Cost: 9089.22, Comm 90.89
+   total return   norm100  drawdown  sharperatio
+0      0.036999  3.513546  7.739319      0.16235
+----------------------------------------------------------------------------
+code name is 600009.SH
+Start Protfolio Value 10000
+2020-03-10, BUY EXECUTED, Price: 69.53, Cost: 9456.24, Comm 94.56
+2020-04-20, SELL EXECUTED, Price: 67.05, Cost: 9456.24, Comm 91.18
+2020-04-20, OPERATION PROFIT, GROSS -337.92, NET -523.66
+2020-06-03, BUY EXECUTED, Price: 73.24, Cost: 8935.69, Comm 89.36
+2020-09-16, SELL EXECUTED, Price: 74.35, Cost: 8935.69, Comm 90.71
+2020-09-16, OPERATION PROFIT, GROSS 135.01, NET -45.06
+2020-09-28, BUY EXECUTED, Price: 69.51, Cost: 9036.30, Comm 90.36
+2020-12-11, SELL EXECUTED, Price: 75.20, Cost: 9036.30, Comm 97.76
+2020-12-11, OPERATION PROFIT, GROSS 739.70, NET 551.58
+2020-12-25, BUY EXECUTED, Price: 70.80, Cost: 9487.20, Comm 94.87
+   total return    norm100   drawdown  sharperatio
+0     -0.193937 -16.557088  25.027166    -0.677465
+----------------------------------------------------------------------------
+code name is 600016.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 5.52, Cost: 9434.31, Comm 94.34
+2020-03-03, SELL EXECUTED, Price: 5.49, Cost: 9434.31, Comm 93.70
+2020-03-03, OPERATION PROFIT, GROSS -64.22, NET -252.26
+2020-03-18, BUY EXECUTED, Price: 5.37, Cost: 9273.97, Comm 92.74
+2020-04-22, SELL EXECUTED, Price: 5.36, Cost: 9273.97, Comm 92.58
+2020-04-22, OPERATION PROFIT, GROSS -16.22, NET -201.54
+2020-06-19, BUY EXECUTED, Price: 5.32, Cost: 9080.75, Comm 90.81
+2020-08-04, SELL EXECUTED, Price: 5.58, Cost: 9080.75, Comm 95.31
+2020-08-04, OPERATION PROFIT, GROSS 449.89, NET 263.77
+2020-09-30, BUY EXECUTED, Price: 5.32, Cost: 9352.56, Comm 93.53
+2021-01-14, SELL EXECUTED, Price: 5.18, Cost: 9352.56, Comm 91.06
+2021-01-14, OPERATION PROFIT, GROSS -246.12, NET -430.71
+2021-01-29, BUY EXECUTED, Price: 5.12, Cost: 8908.80, Comm 89.09
+   total return   norm100   drawdown  sharperatio
+0     -0.069889 -6.314819  14.085088    -2.903408
+----------------------------------------------------------------------------
+code name is 600028.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 4.41, Cost: 9497.53, Comm 94.98
+2020-03-04, SELL EXECUTED, Price: 4.42, Cost: 9497.53, Comm 95.18
+2020-03-04, OPERATION PROFIT, GROSS 20.24, NET -169.91
+2020-03-16, BUY EXECUTED, Price: 4.30, Cost: 9396.96, Comm 93.97
+2020-04-21, SELL EXECUTED, Price: 4.29, Cost: 9396.96, Comm 93.76
+2020-04-21, OPERATION PROFIT, GROSS -20.55, NET -208.28
+2020-04-30, BUY EXECUTED, Price: 4.14, Cost: 9077.05, Comm 90.77
+2020-08-05, SELL EXECUTED, Price: 3.96, Cost: 9077.05, Comm 86.80
+2020-08-05, OPERATION PROFIT, GROSS -396.93, NET -574.50
+2020-09-11, BUY EXECUTED, Price: 3.84, Cost: 8571.33, Comm 85.71
+2020-10-20, SELL EXECUTED, Price: 3.85, Cost: 8571.33, Comm 85.93
+2020-10-20, OPERATION PROFIT, GROSS 21.87, NET -149.77
+2020-11-11, BUY EXECUTED, Price: 4.05, Cost: 8472.60, Comm 84.73
+   total return   norm100   drawdown  sharperatio
+0     -0.112237 -9.945474  11.387307    -0.872083
+----------------------------------------------------------------------------
+code name is 600030.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 22.13, Cost: 9426.87, Comm 94.27
+2020-03-06, SELL EXECUTED, Price: 25.28, Cost: 9426.87, Comm 107.69
+2020-03-06, OPERATION PROFIT, GROSS 1341.90, NET 1139.94
+2020-05-26, BUY EXECUTED, Price: 21.99, Cost: 10643.64, Comm 106.44
+2020-08-06, SELL EXECUTED, Price: 29.53, Cost: 10643.64, Comm 142.93
+2020-08-06, OPERATION PROFIT, GROSS 3649.51, NET 3400.14
+2020-11-03, BUY EXECUTED, Price: 28.27, Cost: 13880.57, Comm 138.81
+2020-11-26, SELL EXECUTED, Price: 29.21, Cost: 13880.57, Comm 143.42
+2020-11-26, OPERATION PROFIT, GROSS 461.54, NET 179.31
+2021-01-08, BUY EXECUTED, Price: 29.80, Cost: 14006.00, Comm 140.06
+   total return    norm100   drawdown  sharperatio
+0      0.316899  34.416374  16.035828     0.713269
+----------------------------------------------------------------------------
+code name is 600031.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 15.59, Cost: 9415.33, Comm 94.15
+2020-05-15, SELL EXECUTED, Price: 19.69, Cost: 9415.33, Comm 118.94
+2020-05-15, OPERATION PROFIT, GROSS 2478.39, NET 2265.30
+2020-06-12, BUY EXECUTED, Price: 18.98, Cost: 11428.85, Comm 114.29
+2020-08-06, SELL EXECUTED, Price: 21.31, Cost: 11428.85, Comm 128.29
+2020-08-06, OPERATION PROFIT, GROSS 1399.77, NET 1157.20
+2020-10-15, BUY EXECUTED, Price: 27.80, Cost: 12871.40, Comm 128.71
+   total return     norm100  drawdown  sharperatio
+0      0.793413  109.702402       0.0     2.933937
+----------------------------------------------------------------------------
+code name is 600036.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 34.05, Cost: 9294.50, Comm 92.95
+2020-03-04, SELL EXECUTED, Price: 33.64, Cost: 9294.50, Comm 91.83
+2020-03-04, OPERATION PROFIT, GROSS -111.22, NET -296.00
+2020-03-16, BUY EXECUTED, Price: 32.39, Cost: 9197.96, Comm 91.98
+2020-04-20, SELL EXECUTED, Price: 31.90, Cost: 9197.96, Comm 90.60
+2020-04-20, OPERATION PROFIT, GROSS -137.74, NET -320.32
+2020-05-06, BUY EXECUTED, Price: 33.49, Cost: 8741.65, Comm 87.42
+2020-07-22, SELL EXECUTED, Price: 36.78, Cost: 8741.65, Comm 96.00
+2020-07-22, OPERATION PROFIT, GROSS 857.93, NET 674.52
+2020-08-19, BUY EXECUTED, Price: 38.84, Cost: 9515.80, Comm 95.16
+   total return    norm100  drawdown  sharperatio
+0      0.335468  36.766259       0.0     2.775803
+----------------------------------------------------------------------------
+code name is 600048.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 13.61, Cost: 9376.95, Comm 93.77
+2020-03-05, SELL EXECUTED, Price: 15.82, Cost: 9376.95, Comm 108.97
+2020-03-05, OPERATION PROFIT, GROSS 1520.42, NET 1317.67
+2020-03-20, BUY EXECUTED, Price: 13.43, Cost: 10877.98, Comm 108.78
+2020-04-21, SELL EXECUTED, Price: 15.06, Cost: 10877.98, Comm 121.97
+2020-04-21, OPERATION PROFIT, GROSS 1319.49, NET 1088.74
+2020-05-06, BUY EXECUTED, Price: 15.16, Cost: 11614.63, Comm 116.15
+2020-08-05, SELL EXECUTED, Price: 16.05, Cost: 11614.63, Comm 122.94
+2020-08-05, OPERATION PROFIT, GROSS 679.67, NET 440.58
+2020-09-30, BUY EXECUTED, Price: 16.20, Cost: 12295.80, Comm 122.96
+   total return   norm100   drawdown  sharperatio
+0      0.091955  8.961512  24.720236     0.290508
+----------------------------------------------------------------------------
+code name is 600050.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 5.29, Cost: 9446.26, Comm 94.46
+2020-03-04, SELL EXECUTED, Price: 5.59, Cost: 9446.26, Comm 99.94
+2020-03-04, OPERATION PROFIT, GROSS 547.36, NET 352.96
+2020-06-10, BUY EXECUTED, Price: 4.99, Cost: 9834.70, Comm 98.35
+2020-07-01, SELL EXECUTED, Price: 4.84, Cost: 9834.70, Comm 95.40
+2020-07-01, OPERATION PROFIT, GROSS -295.06, NET -488.80
+2020-07-08, BUY EXECUTED, Price: 5.28, Cost: 9366.72, Comm 93.67
+2020-09-16, SELL EXECUTED, Price: 5.03, Cost: 9366.72, Comm 89.23
+2020-09-16, OPERATION PROFIT, GROSS -443.50, NET -626.40
+2020-12-14, BUY EXECUTED, Price: 4.67, Cost: 8774.93, Comm 87.75
+   total return    norm100   drawdown  sharperatio
+0     -0.215648 -18.230969  25.894181    -4.968959
+----------------------------------------------------------------------------
+code name is 600104.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 19.99, Cost: 9496.15, Comm 94.96
+2020-03-04, SELL EXECUTED, Price: 22.08, Cost: 9496.15, Comm 104.90
+2020-03-04, OPERATION PROFIT, GROSS 993.89, NET 794.03
+2020-05-12, BUY EXECUTED, Price: 19.21, Cost: 10297.63, Comm 102.98
+2020-12-07, SELL EXECUTED, Price: 24.73, Cost: 10297.63, Comm 132.55
+2020-12-07, OPERATION PROFIT, GROSS 2957.65, NET 2722.12
+2021-01-12, BUY EXECUTED, Price: 25.70, Cost: 12464.50, Comm 124.65
+   total return    norm100   drawdown  sharperatio
+0      0.117156  11.554818  28.002807     0.314412
+----------------------------------------------------------------------------
+code name is 600196.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 28.00, Cost: 9492.92, Comm 94.93
+2020-03-09, SELL EXECUTED, Price: 27.61, Cost: 9492.92, Comm 93.58
+2020-03-09, OPERATION PROFIT, GROSS -134.65, NET -323.16
+2020-03-20, BUY EXECUTED, Price: 29.73, Cost: 9216.45, Comm 92.16
+2020-04-27, SELL EXECUTED, Price: 35.30, Cost: 9216.45, Comm 109.43
+2020-04-27, OPERATION PROFIT, GROSS 1726.95, NET 1525.35
+2020-07-16, BUY EXECUTED, Price: 42.50, Cost: 10625.12, Comm 106.25
+2020-09-03, SELL EXECUTED, Price: 53.70, Cost: 10625.12, Comm 134.25
+2020-09-03, OPERATION PROFIT, GROSS 2799.88, NET 2559.37
+2020-10-19, BUY EXECUTED, Price: 61.99, Cost: 13141.88, Comm 131.42
+2020-12-18, SELL EXECUTED, Price: 56.63, Cost: 13141.88, Comm 120.06
+2020-12-18, OPERATION PROFIT, GROSS -1136.32, NET -1387.79
+2020-12-31, BUY EXECUTED, Price: 52.29, Cost: 11817.54, Comm 118.18
+   total return   norm100   drawdown  sharperatio
+0      0.101572  9.943903  42.856853     0.308343
+----------------------------------------------------------------------------
+code name is 600276.SH
+Start Protfolio Value 10000
+2020-03-10, BUY EXECUTED, Price: 74.20, Cost: 9497.41, Comm 94.97
+2021-01-19, SELL EXECUTED, Price: 108.50, Cost: 9497.41, Comm 138.88
+2021-01-19, OPERATION PROFIT, GROSS 4390.59, NET 4156.74
+2021-02-05, BUY EXECUTED, Price: 103.95, Cost: 13513.50, Comm 135.14
+   total return    norm100  drawdown  sharperatio
+0      0.390304  43.948297  2.343826     0.986112
+----------------------------------------------------------------------------
+code name is 600309.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 48.08, Cost: 9424.15, Comm 94.24
+2020-04-16, SELL EXECUTED, Price: 41.72, Cost: 9424.15, Comm 81.77
+2020-04-16, OPERATION PROFIT, GROSS -1247.54, NET -1423.55
+2020-05-11, BUY EXECUTED, Price: 45.67, Cost: 8175.36, Comm 81.75
+2020-08-20, SELL EXECUTED, Price: 65.40, Cost: 8175.36, Comm 117.07
+2020-08-20, OPERATION PROFIT, GROSS 3531.24, NET 3332.42
+2020-09-02, BUY EXECUTED, Price: 74.60, Cost: 11339.20, Comm 113.39
+2020-12-11, SELL EXECUTED, Price: 82.15, Cost: 11339.20, Comm 124.87
+2020-12-11, OPERATION PROFIT, GROSS 1147.60, NET 909.34
+2020-12-22, BUY EXECUTED, Price: 87.85, Cost: 12035.45, Comm 120.35
+   total return    norm100  drawdown  sharperatio
+0      0.667052  86.373299       0.0     4.571453
+----------------------------------------------------------------------------
+code name is 600519.SH
+Start Protfolio Value 10000
+2020-02-26, BUY EXECUTED, Price: 1049.81, Cost: 8398.46, Comm 83.98
+2020-08-11, SELL EXECUTED, Price: 1640.00, Cost: 8398.46, Comm 131.20
+2020-08-11, OPERATION PROFIT, GROSS 4721.54, NET 4506.35
+2020-09-03, BUY EXECUTED, Price: 1795.00, Cost: 12565.00, Comm 125.65
+2020-11-13, SELL EXECUTED, Price: 1724.00, Cost: 12565.00, Comm 120.68
+2020-11-13, OPERATION PROFIT, GROSS -497.00, NET -743.33
+2020-12-11, BUY EXECUTED, Price: 1834.78, Cost: 12843.46, Comm 128.43
+2021-02-04, SELL EXECUTED, Price: 2191.00, Cost: 12843.46, Comm 153.37
+2021-02-04, OPERATION PROFIT, GROSS 2493.54, NET 2211.74
+   total return    norm100  drawdown  sharperatio
+0      0.468425  54.836017  0.904066     1.358216
+----------------------------------------------------------------------------
+code name is 600547.SH
+Start Protfolio Value 10000
+2020-02-24, Order Canceled/Margin/Rejected
+2020-04-01, BUY EXECUTED, Price: 23.63, Cost: 9169.80, Comm 91.70
+2020-06-02, SELL EXECUTED, Price: 26.81, Cost: 9169.80, Comm 104.00
+2020-06-02, OPERATION PROFIT, GROSS 1230.58, NET 1034.88
+2020-07-02, BUY EXECUTED, Price: 25.81, Cost: 10245.50, Comm 102.45
+2020-09-16, SELL EXECUTED, Price: 27.17, Cost: 10245.50, Comm 107.86
+2020-09-16, OPERATION PROFIT, GROSS 540.99, NET 330.67
+2020-09-25, BUY EXECUTED, Price: 25.27, Cost: 10840.83, Comm 108.41
+   total return   norm100   drawdown  sharperatio
+0     -0.041591 -3.821307  29.425146    -0.382903
+----------------------------------------------------------------------------
+code name is 600570.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 67.00, Cost: 9379.82, Comm 93.80
+2020-04-14, SELL EXECUTED, Price: 69.64, Cost: 9379.82, Comm 97.50
+2020-04-14, OPERATION PROFIT, GROSS 369.75, NET 178.46
+2020-04-29, BUY EXECUTED, Price: 77.19, Cost: 9648.48, Comm 96.48
+2020-08-07, SELL EXECUTED, Price: 110.16, Cost: 9648.48, Comm 137.70
+2020-08-07, OPERATION PROFIT, GROSS 4121.52, NET 3887.34
+2020-10-30, BUY EXECUTED, Price: 91.00, Cost: 13195.00, Comm 131.95
+   total return    norm100  drawdown  sharperatio
+0      0.473628  55.589836  3.452319     0.989181
+----------------------------------------------------------------------------
+code name is 600585.SH
+Start Protfolio Value 10000
+2020-03-18, BUY EXECUTED, Price: 49.80, Cost: 9611.77, Comm 96.12
+2020-04-03, SELL EXECUTED, Price: 52.26, Cost: 9611.77, Comm 100.86
+2020-04-03, OPERATION PROFIT, GROSS 474.53, NET 277.55
+2020-07-06, BUY EXECUTED, Price: 57.23, Cost: 9786.33, Comm 97.86
+2020-08-20, SELL EXECUTED, Price: 60.51, Cost: 9786.33, Comm 103.47
+2020-08-20, OPERATION PROFIT, GROSS 560.88, NET 359.54
+2020-09-29, BUY EXECUTED, Price: 56.41, Cost: 10097.39, Comm 100.97
+   total return   norm100   drawdown  sharperatio
+0     -0.041947 -3.839376  13.714466    -2.682293
+----------------------------------------------------------------------------
+code name is 600588.SH
+Start Protfolio Value 10000
+2020-02-07, Order Canceled/Margin/Rejected
+2020-03-25, BUY EXECUTED, Price: 31.76, Cost: 9781.40, Comm 97.81
+2020-06-08, SELL EXECUTED, Price: 35.99, Cost: 9781.40, Comm 110.85
+2020-06-08, OPERATION PROFIT, GROSS 1303.52, NET 1094.85
+2020-06-24, BUY EXECUTED, Price: 42.30, Cost: 10448.10, Comm 104.48
+2020-08-19, SELL EXECUTED, Price: 45.31, Cost: 10448.10, Comm 111.92
+2020-08-19, OPERATION PROFIT, GROSS 743.47, NET 527.07
+2020-09-15, BUY EXECUTED, Price: 38.50, Cost: 11011.00, Comm 110.11
+   total return   norm100   drawdown  sharperatio
+0      0.204549  21.03536  18.826473     0.617869
+----------------------------------------------------------------------------
+code name is 600690.SH
+Start Protfolio Value 10000
+2020-03-19, BUY EXECUTED, Price: 14.72, Cost: 9494.79, Comm 94.95
+2020-04-20, SELL EXECUTED, Price: 14.54, Cost: 9494.79, Comm 93.81
+2020-04-20, OPERATION PROFIT, GROSS -113.78, NET -302.54
+2020-08-05, BUY EXECUTED, Price: 20.54, Cost: 9119.76, Comm 91.20
+2021-02-08, SELL EXECUTED, Price: 33.75, Cost: 9119.76, Comm 149.85
+2021-02-08, OPERATION PROFIT, GROSS 5865.24, NET 5624.19
+   total return    norm100  drawdown  sharperatio
+0      0.426682  49.362884  5.212091     2.243763
+----------------------------------------------------------------------------
+code name is 600703.SH
+Start Protfolio Value 10000
+2020-02-14, BUY EXECUTED, Price: 23.90, Cost: 9776.90, Comm 97.77
+2020-10-16, SELL EXECUTED, Price: 24.61, Cost: 9776.90, Comm 100.65
+2020-10-16, OPERATION PROFIT, GROSS 288.59, NET 90.17
+2020-11-12, BUY EXECUTED, Price: 24.40, Cost: 9589.20, Comm 95.89
+2020-12-22, SELL EXECUTED, Price: 26.80, Cost: 9589.20, Comm 105.32
+2020-12-22, OPERATION PROFIT, GROSS 943.20, NET 741.98
+2021-01-13, BUY EXECUTED, Price: 35.15, Cost: 10052.90, Comm 100.53
+   total return    norm100   drawdown  sharperatio
+0     -0.134226 -11.774831  32.518463    -0.469448
+----------------------------------------------------------------------------
+code name is 600745.SH
+Start Protfolio Value 10000
+2020-03-31, BUY EXECUTED, Price: 104.83, Cost: 9644.50, Comm 96.44
+2020-04-10, SELL EXECUTED, Price: 107.80, Cost: 9644.50, Comm 99.17
+2020-04-10, OPERATION PROFIT, GROSS 272.98, NET 77.36
+2020-05-11, BUY EXECUTED, Price: 115.97, Cost: 9625.60, Comm 96.26
+2020-08-11, SELL EXECUTED, Price: 138.70, Cost: 9625.60, Comm 115.12
+2020-08-11, OPERATION PROFIT, GROSS 1886.50, NET 1675.12
+2020-09-14, BUY EXECUTED, Price: 122.00, Cost: 11224.00, Comm 112.24
+2020-11-20, SELL EXECUTED, Price: 106.50, Cost: 11224.00, Comm 97.98
+2020-11-20, OPERATION PROFIT, GROSS -1426.00, NET -1636.22
+2020-12-21, BUY EXECUTED, Price: 96.50, Cost: 9457.00, Comm 94.57
+   total return    norm100   drawdown  sharperatio
+0       0.13391  13.915914  18.630013     1.383553
+----------------------------------------------------------------------------
+code name is 600837.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 13.25, Cost: 9421.03, Comm 94.21
+2020-03-06, SELL EXECUTED, Price: 14.93, Cost: 9421.03, Comm 106.19
+2020-03-06, OPERATION PROFIT, GROSS 1197.61, NET 997.21
+2020-03-19, BUY EXECUTED, Price: 12.82, Cost: 10422.25, Comm 104.22
+2020-04-16, SELL EXECUTED, Price: 12.56, Cost: 10422.25, Comm 102.15
+2020-04-16, OPERATION PROFIT, GROSS -206.99, NET -413.36
+2020-05-25, BUY EXECUTED, Price: 11.56, Cost: 10042.25, Comm 100.42
+2020-08-07, SELL EXECUTED, Price: 14.44, Cost: 10042.25, Comm 125.44
+2020-08-07, OPERATION PROFIT, GROSS 2502.11, NET 2276.25
+2020-10-16, BUY EXECUTED, Price: 14.52, Cost: 12214.26, Comm 122.14
+2020-12-21, SELL EXECUTED, Price: 12.70, Cost: 12214.26, Comm 106.81
+2020-12-21, OPERATION PROFIT, GROSS -1533.56, NET -1762.51
+2021-01-19, BUY EXECUTED, Price: 12.85, Cost: 10524.15, Comm 105.24
+   total return   norm100   drawdown  sharperatio
+0      0.024405  2.303895  30.193086     0.070369
+----------------------------------------------------------------------------
+code name is 600887.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 29.45, Cost: 9482.29, Comm 94.82
+2020-02-24, SELL EXECUTED, Price: 29.66, Cost: 9482.29, Comm 95.51
+2020-02-24, OPERATION PROFIT, GROSS 68.97, NET -121.36
+2020-03-17, BUY EXECUTED, Price: 26.77, Cost: 9450.16, Comm 94.50
+2020-04-22, SELL EXECUTED, Price: 29.01, Cost: 9450.16, Comm 102.41
+2020-04-22, OPERATION PROFIT, GROSS 790.40, NET 593.50
+2020-05-07, BUY EXECUTED, Price: 28.42, Cost: 9945.67, Comm 99.46
+2020-06-22, SELL EXECUTED, Price: 29.99, Cost: 9945.67, Comm 104.96
+2020-06-22, OPERATION PROFIT, GROSS 550.83, NET 346.41
+2020-07-03, BUY EXECUTED, Price: 32.50, Cost: 10432.50, Comm 104.33
+2020-09-29, SELL EXECUTED, Price: 38.61, Cost: 10432.50, Comm 123.94
+2020-09-29, OPERATION PROFIT, GROSS 1961.31, NET 1733.05
+2020-11-04, BUY EXECUTED, Price: 39.20, Cost: 11916.80, Comm 119.17
+2021-02-05, SELL EXECUTED, Price: 44.18, Cost: 11916.80, Comm 134.31
+2021-02-05, OPERATION PROFIT, GROSS 1513.92, NET 1260.44
+   total return    norm100   drawdown  sharperatio
+0      0.322955  35.178327  14.894884     0.885469
+----------------------------------------------------------------------------
+code name is 600918.SH
+Start Protfolio Value 10000
+2020-07-28, BUY EXECUTED, Price: 16.44, Cost: 9551.64, Comm 95.52
+2020-08-10, SELL EXECUTED, Price: 17.08, Cost: 9551.64, Comm 99.23
+2020-08-10, OPERATION PROFIT, GROSS 371.84, NET 177.09
+2020-08-18, BUY EXECUTED, Price: 17.40, Cost: 9657.00, Comm 96.57
+2020-08-25, SELL EXECUTED, Price: 16.35, Cost: 9657.00, Comm 90.74
+2020-08-25, OPERATION PROFIT, GROSS -582.75, NET -770.06
+2020-09-23, BUY EXECUTED, Price: 15.39, Cost: 8864.64, Comm 88.65
+2020-10-21, SELL EXECUTED, Price: 14.80, Cost: 8864.64, Comm 85.25
+2020-10-21, OPERATION PROFIT, GROSS -339.84, NET -513.73
+2020-11-04, BUY EXECUTED, Price: 13.41, Cost: 8448.30, Comm 84.48
+2020-12-30, SELL EXECUTED, Price: 16.48, Cost: 8448.30, Comm 103.82
+2020-12-30, OPERATION PROFIT, GROSS 1934.10, NET 1745.79
+   total return   norm100  drawdown  sharperatio
+0      0.061949  9.559087  6.504178     0.687053
+----------------------------------------------------------------------------
+code name is 601012.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 30.33, Cost: 9553.04, Comm 95.53
+2020-05-27, SELL EXECUTED, Price: 31.12, Cost: 9553.04, Comm 98.03
+2020-05-27, OPERATION PROFIT, GROSS 249.76, NET 56.21
+2020-06-24, BUY EXECUTED, Price: 36.30, Cost: 9656.60, Comm 96.57
+2020-08-12, SELL EXECUTED, Price: 56.85, Cost: 9656.60, Comm 151.22
+2020-08-12, OPERATION PROFIT, GROSS 5465.00, NET 5217.21
+2020-09-02, BUY EXECUTED, Price: 67.82, Cost: 14648.86, Comm 146.49
+   total return     norm100  drawdown  sharperatio
+0      0.949286  142.540829  4.464382     1.665582
+----------------------------------------------------------------------------
+code name is 601066.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 32.26, Cost: 9355.89, Comm 93.56
+2020-05-21, SELL EXECUTED, Price: 34.11, Cost: 9355.89, Comm 98.92
+2020-05-21, OPERATION PROFIT, GROSS 536.27, NET 343.79
+2020-07-01, BUY EXECUTED, Price: 39.37, Cost: 9803.13, Comm 98.03
+2020-08-06, SELL EXECUTED, Price: 48.54, Cost: 9803.13, Comm 120.86
+2020-08-06, OPERATION PROFIT, GROSS 2283.33, NET 2064.43
+2020-10-23, BUY EXECUTED, Price: 47.69, Cost: 11874.81, Comm 118.75
+2020-11-24, SELL EXECUTED, Price: 44.20, Cost: 11874.81, Comm 110.06
+2020-11-24, OPERATION PROFIT, GROSS -869.01, NET -1097.82
+2020-12-15, BUY EXECUTED, Price: 42.46, Cost: 10657.46, Comm 106.57
+2021-02-04, SELL EXECUTED, Price: 38.80, Cost: 10657.46, Comm 97.39
+2021-02-04, OPERATION PROFIT, GROSS -918.66, NET -1122.62
+   total return  norm100   drawdown  sharperatio
+0      0.018604  1.75155  26.409091     0.040083
+----------------------------------------------------------------------------
+code name is 601088.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 14.94, Cost: 9444.36, Comm 94.44
+2020-03-05, SELL EXECUTED, Price: 15.46, Cost: 9444.36, Comm 97.71
+2020-03-05, OPERATION PROFIT, GROSS 326.43, NET 134.28
+2020-03-13, BUY EXECUTED, Price: 14.64, Cost: 9383.73, Comm 93.84
+2020-05-27, SELL EXECUTED, Price: 14.85, Cost: 9383.73, Comm 95.20
+2020-05-27, OPERATION PROFIT, GROSS 135.96, NET -53.08
+2020-06-19, BUY EXECUTED, Price: 15.00, Cost: 9600.00, Comm 96.00
+2020-08-05, SELL EXECUTED, Price: 15.65, Cost: 9600.00, Comm 100.16
+2020-08-05, OPERATION PROFIT, GROSS 416.00, NET 219.84
+2020-11-09, BUY EXECUTED, Price: 17.89, Cost: 9803.72, Comm 98.04
+2020-12-31, SELL EXECUTED, Price: 18.04, Cost: 9803.72, Comm 98.86
+2020-12-31, OPERATION PROFIT, GROSS 82.20, NET -114.70
+2021-02-02, BUY EXECUTED, Price: 17.09, Cost: 9724.21, Comm 97.24
+   total return   norm100   drawdown  sharperatio
+0     -0.017994 -1.665408  13.494435    -0.682766
+----------------------------------------------------------------------------
+code name is 601138.SH
+Start Protfolio Value 10000
+2020-02-07, Order Canceled/Margin/Rejected
+2020-02-27, BUY EXECUTED, Price: 18.40, Cost: 9459.35, Comm 94.59
+2020-04-20, SELL EXECUTED, Price: 13.88, Cost: 9459.35, Comm 71.35
+2020-04-20, OPERATION PROFIT, GROSS -2324.26, NET -2490.20
+2020-05-19, BUY EXECUTED, Price: 13.37, Cost: 7151.93, Comm 71.52
+2020-12-10, SELL EXECUTED, Price: 13.76, Cost: 7151.93, Comm 73.62
+2020-12-10, OPERATION PROFIT, GROSS 209.67, NET 64.53
+2021-01-14, BUY EXECUTED, Price: 15.15, Cost: 7181.10, Comm 71.81
+   total return    norm100   drawdown  sharperatio
+0     -0.389006 -30.446411  32.479201    -2.678006
+----------------------------------------------------------------------------
+code name is 601166.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 16.70, Cost: 9387.87, Comm 93.88
+2020-03-04, SELL EXECUTED, Price: 16.88, Cost: 9387.87, Comm 94.85
+2020-03-04, OPERATION PROFIT, GROSS 96.78, NET -91.95
+2020-03-13, BUY EXECUTED, Price: 15.87, Cost: 9079.13, Comm 90.79
+2020-04-16, SELL EXECUTED, Price: 15.23, Cost: 9079.13, Comm 87.13
+2020-04-16, OPERATION PROFIT, GROSS -366.48, NET -544.40
+2020-06-16, BUY EXECUTED, Price: 15.04, Cost: 8949.22, Comm 89.49
+2020-08-06, SELL EXECUTED, Price: 15.95, Cost: 8949.22, Comm 94.90
+2020-08-06, OPERATION PROFIT, GROSS 541.03, NET 356.64
+2020-09-22, BUY EXECUTED, Price: 16.36, Cost: 9177.96, Comm 91.78
+2020-12-24, SELL EXECUTED, Price: 20.00, Cost: 9177.96, Comm 112.20
+2020-12-24, OPERATION PROFIT, GROSS 2042.04, NET 1838.06
+2021-01-07, BUY EXECUTED, Price: 19.80, Cost: 11008.80, Comm 110.09
+   total return    norm100  drawdown  sharperatio
+0      0.428258  49.138878       0.0     2.697264
+----------------------------------------------------------------------------
+code name is 601186.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 8.52, Cost: 9454.09, Comm 94.54
+2020-03-02, SELL EXECUTED, Price: 9.45, Cost: 9454.09, Comm 104.95
+2020-03-02, OPERATION PROFIT, GROSS 1040.85, NET 841.36
+2020-05-28, BUY EXECUTED, Price: 8.61, Cost: 10320.65, Comm 103.21
+2020-06-30, SELL EXECUTED, Price: 8.20, Cost: 10320.65, Comm 98.29
+2020-06-30, OPERATION PROFIT, GROSS -491.42, NET -692.92
+2020-07-08, BUY EXECUTED, Price: 9.27, Cost: 9630.80, Comm 96.31
+2020-08-04, SELL EXECUTED, Price: 8.94, Cost: 9630.80, Comm 92.89
+2020-08-04, OPERATION PROFIT, GROSS -342.14, NET -531.34
+2020-09-30, BUY EXECUTED, Price: 8.37, Cost: 9156.78, Comm 91.57
+2020-11-06, SELL EXECUTED, Price: 8.37, Cost: 9156.78, Comm 91.57
+2020-11-06, OPERATION PROFIT, GROSS 0.00, NET -183.14
+2020-11-13, BUY EXECUTED, Price: 8.44, Cost: 8929.52, Comm 89.30
+2020-12-01, SELL EXECUTED, Price: 8.58, Cost: 8929.52, Comm 90.78
+2020-12-01, OPERATION PROFIT, GROSS 148.12, NET -31.95
+2020-12-15, BUY EXECUTED, Price: 8.23, Cost: 8929.55, Comm 89.30
+   total return    norm100   drawdown  sharperatio
+0     -0.165197 -14.288546  21.806205    -3.472188
+----------------------------------------------------------------------------
+code name is 601211.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 16.32, Cost: 9462.70, Comm 94.63
+2020-03-03, SELL EXECUTED, Price: 18.09, Cost: 9462.70, Comm 104.90
+2020-03-03, OPERATION PROFIT, GROSS 1027.47, NET 827.94
+2020-05-18, BUY EXECUTED, Price: 15.76, Cost: 10273.63, Comm 102.74
+2020-06-15, SELL EXECUTED, Price: 15.91, Cost: 10273.63, Comm 103.76
+2020-06-15, OPERATION PROFIT, GROSS 102.10, NET -104.39
+2020-07-03, BUY EXECUTED, Price: 18.29, Cost: 10298.40, Comm 102.98
+2020-08-06, SELL EXECUTED, Price: 18.43, Cost: 10298.40, Comm 103.76
+2020-08-06, OPERATION PROFIT, GROSS 77.13, NET -129.61
+2020-11-09, BUY EXECUTED, Price: 18.79, Cost: 10109.02, Comm 101.09
+   total return   norm100   drawdown  sharperatio
+0     -0.082033 -7.370679  24.398106    -2.329135
+----------------------------------------------------------------------------
+code name is 601236.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 16.52, Cost: 9381.88, Comm 93.82
+2020-03-25, SELL EXECUTED, Price: 22.19, Cost: 9381.88, Comm 126.03
+2020-03-25, OPERATION PROFIT, GROSS 3221.53, NET 3001.67
+2020-05-12, BUY EXECUTED, Price: 21.61, Cost: 12426.84, Comm 124.27
+2020-08-10, SELL EXECUTED, Price: 21.52, Cost: 12426.84, Comm 123.74
+2020-08-10, OPERATION PROFIT, GROSS -52.84, NET -300.85
+2020-09-11, BUY EXECUTED, Price: 17.72, Cost: 11996.44, Comm 119.96
+2020-09-28, SELL EXECUTED, Price: 18.44, Cost: 11996.44, Comm 124.84
+2020-09-28, OPERATION PROFIT, GROSS 487.44, NET 242.64
+2021-01-04, BUY EXECUTED, Price: 18.50, Cost: 12228.50, Comm 122.29
+   total return   norm100   drawdown  sharperatio
+0     -0.015451 -1.431782  37.211594     0.065763
+----------------------------------------------------------------------------
+code name is 601288.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 3.24, Cost: 9444.53, Comm 94.45
+2020-04-20, SELL EXECUTED, Price: 3.26, Cost: 9444.53, Comm 95.00
+2020-04-20, OPERATION PROFIT, GROSS 55.35, NET -134.10
+2020-06-17, BUY EXECUTED, Price: 3.19, Cost: 9370.56, Comm 93.71
+2020-08-06, SELL EXECUTED, Price: 3.25, Cost: 9370.56, Comm 95.62
+2020-08-06, OPERATION PROFIT, GROSS 190.94, NET 1.62
+2020-09-08, BUY EXECUTED, Price: 3.15, Cost: 9402.75, Comm 94.03
+2020-10-13, SELL EXECUTED, Price: 3.18, Cost: 9402.75, Comm 94.92
+2020-10-13, OPERATION PROFIT, GROSS 89.55, NET -99.40
+2020-11-03, BUY EXECUTED, Price: 3.19, Cost: 9337.13, Comm 93.37
+2021-01-07, SELL EXECUTED, Price: 3.13, Cost: 9337.13, Comm 91.62
+2021-01-07, OPERATION PROFIT, GROSS -175.62, NET -360.61
+2021-01-28, BUY EXECUTED, Price: 3.14, Cost: 8908.18, Comm 89.08
+   total return   norm100   drawdown  sharperatio
+0      -0.06452 -5.844177  14.141164    -2.678358
+----------------------------------------------------------------------------
+code name is 601318.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 78.38, Cost: 9327.66, Comm 93.28
+2020-03-05, SELL EXECUTED, Price: 78.78, Cost: 9327.66, Comm 93.75
+2020-03-05, OPERATION PROFIT, GROSS 47.46, NET -139.57
+2020-03-16, BUY EXECUTED, Price: 72.45, Cost: 9273.79, Comm 92.74
+2020-04-20, SELL EXECUTED, Price: 70.89, Cost: 9273.79, Comm 90.73
+2020-04-20, OPERATION PROFIT, GROSS -200.42, NET -383.89
+2020-05-07, BUY EXECUTED, Price: 71.67, Cost: 8959.19, Comm 89.59
+2020-08-06, SELL EXECUTED, Price: 76.22, Cost: 8959.19, Comm 95.28
+2020-08-06, OPERATION PROFIT, GROSS 568.51, NET 383.64
+2020-09-18, BUY EXECUTED, Price: 79.60, Cost: 9392.80, Comm 93.93
+2020-12-31, SELL EXECUTED, Price: 85.59, Cost: 9392.80, Comm 101.00
+2020-12-31, OPERATION PROFIT, GROSS 706.82, NET 511.90
+2021-02-01, BUY EXECUTED, Price: 79.10, Cost: 9808.40, Comm 98.08
+   total return   norm100   drawdown  sharperatio
+0      0.015254  1.433903  10.872091    -0.066007
+----------------------------------------------------------------------------
+code name is 601319.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 6.71, Cost: 9425.33, Comm 94.25
+2020-02-19, SELL EXECUTED, Price: 7.03, Cost: 9425.33, Comm 98.65
+2020-02-19, OPERATION PROFIT, GROSS 439.59, NET 246.69
+2020-03-18, BUY EXECUTED, Price: 6.39, Cost: 9809.11, Comm 98.09
+2020-04-16, SELL EXECUTED, Price: 6.15, Cost: 9809.11, Comm 94.33
+2020-04-16, OPERATION PROFIT, GROSS -375.61, NET -568.04
+2020-04-30, BUY EXECUTED, Price: 6.15, Cost: 9279.86, Comm 92.80
+2020-08-07, SELL EXECUTED, Price: 7.10, Cost: 9279.86, Comm 107.28
+2020-08-07, OPERATION PROFIT, GROSS 1448.09, NET 1248.01
+2020-10-30, BUY EXECUTED, Price: 6.74, Cost: 10333.03, Comm 103.33
+   total return   norm100   drawdown  sharperatio
+0     -0.042804 -3.916327  24.581117    -0.380143
+----------------------------------------------------------------------------
+code name is 601336.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 45.05, Cost: 9416.10, Comm 94.16
+2020-03-05, SELL EXECUTED, Price: 44.85, Cost: 9416.10, Comm 93.73
+2020-03-05, OPERATION PROFIT, GROSS -42.80, NET -230.70
+2020-03-16, BUY EXECUTED, Price: 42.41, Cost: 9287.75, Comm 92.88
+2020-04-20, SELL EXECUTED, Price: 41.67, Cost: 9287.75, Comm 91.25
+2020-04-20, OPERATION PROFIT, GROSS -162.32, NET -346.45
+2020-05-12, BUY EXECUTED, Price: 44.39, Cost: 8922.37, Comm 89.22
+2020-06-24, SELL EXECUTED, Price: 43.40, Cost: 8922.37, Comm 87.24
+2020-06-24, OPERATION PROFIT, GROSS -198.03, NET -374.49
+2020-07-08, BUY EXECUTED, Price: 54.62, Cost: 8466.36, Comm 84.66
+2020-08-07, SELL EXECUTED, Price: 56.00, Cost: 8466.36, Comm 86.80
+2020-08-07, OPERATION PROFIT, GROSS 213.64, NET 42.17
+2020-08-19, BUY EXECUTED, Price: 65.88, Cost: 8498.52, Comm 84.99
+2020-09-15, SELL EXECUTED, Price: 58.01, Cost: 8498.52, Comm 74.83
+2020-09-15, OPERATION PROFIT, GROSS -1015.23, NET -1175.05
+2020-11-04, BUY EXECUTED, Price: 61.00, Cost: 7259.00, Comm 72.59
+   total return    norm100   drawdown  sharperatio
+0     -0.466475 -35.297929  39.449276    -4.815601
+----------------------------------------------------------------------------
+code name is 601398.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 5.20, Cost: 9444.40, Comm 94.44
+2020-03-09, SELL EXECUTED, Price: 5.07, Cost: 9444.40, Comm 92.20
+2020-03-09, OPERATION PROFIT, GROSS -224.40, NET -411.04
+2020-03-16, BUY EXECUTED, Price: 4.96, Cost: 9107.11, Comm 91.07
+2020-04-20, SELL EXECUTED, Price: 4.88, Cost: 9107.11, Comm 89.67
+2020-04-20, OPERATION PROFIT, GROSS -139.72, NET -320.46
+2020-06-12, BUY EXECUTED, Price: 4.97, Cost: 8736.91, Comm 87.37
+2020-08-04, SELL EXECUTED, Price: 4.99, Cost: 8736.91, Comm 87.72
+2020-08-04, OPERATION PROFIT, GROSS 35.51, NET -139.58
+2020-09-08, BUY EXECUTED, Price: 4.90, Cost: 8668.10, Comm 86.68
+2020-11-20, SELL EXECUTED, Price: 5.05, Cost: 8668.10, Comm 89.33
+2020-11-20, OPERATION PROFIT, GROSS 265.35, NET 89.33
+2020-12-03, BUY EXECUTED, Price: 5.45, Cost: 8752.70, Comm 87.53
+2020-12-30, SELL EXECUTED, Price: 4.97, Cost: 8752.70, Comm 79.82
+2020-12-30, OPERATION PROFIT, GROSS -770.88, NET -938.23
+   total return    norm100  drawdown  sharperatio
+0      -0.18874 -16.151377  19.52563     -1.11628
+----------------------------------------------------------------------------
+code name is 601601.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 32.04, Cost: 9420.41, Comm 94.20
+2020-04-16, SELL EXECUTED, Price: 26.61, Cost: 9420.41, Comm 78.23
+2020-04-16, OPERATION PROFIT, GROSS -1597.83, NET -1770.26
+2020-06-09, BUY EXECUTED, Price: 29.17, Cost: 7817.88, Comm 78.18
+2020-08-05, SELL EXECUTED, Price: 30.49, Cost: 7817.88, Comm 81.71
+2020-08-05, OPERATION PROFIT, GROSS 353.44, NET 193.55
+2020-11-04, BUY EXECUTED, Price: 31.60, Cost: 7900.00, Comm 79.00
+   total return   norm100  drawdown  sharperatio
+0      0.006408  0.599868   8.45894    -5.571731
+----------------------------------------------------------------------------
+code name is 601628.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 29.54, Cost: 9392.23, Comm 93.92
+2020-03-05, SELL EXECUTED, Price: 29.62, Cost: 9392.23, Comm 94.20
+2020-03-05, OPERATION PROFIT, GROSS 28.08, NET -160.05
+2020-03-16, BUY EXECUTED, Price: 27.08, Cost: 9316.28, Comm 93.16
+2020-04-17, SELL EXECUTED, Price: 26.26, Cost: 9316.28, Comm 90.33
+2020-04-17, OPERATION PROFIT, GROSS -283.52, NET -467.02
+2020-06-05, BUY EXECUTED, Price: 27.43, Cost: 8940.78, Comm 89.41
+2020-08-05, SELL EXECUTED, Price: 38.16, Cost: 8940.78, Comm 124.40
+2020-08-05, OPERATION PROFIT, GROSS 3499.38, NET 3285.57
+2020-10-21, BUY EXECUTED, Price: 49.80, Cost: 12001.80, Comm 120.02
+2020-12-04, SELL EXECUTED, Price: 41.95, Cost: 12001.80, Comm 101.10
+2020-12-04, OPERATION PROFIT, GROSS -1891.85, NET -2112.97
+2020-12-17, BUY EXECUTED, Price: 38.80, Cost: 9932.80, Comm 99.33
+   total return   norm100   drawdown  sharperatio
+0     -0.103676 -9.222979  37.471351    -0.702809
+----------------------------------------------------------------------------
+code name is 601668.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 5.07, Cost: 9390.75, Comm 93.91
+2020-04-15, SELL EXECUTED, Price: 5.10, Cost: 9390.75, Comm 94.44
+2020-04-15, OPERATION PROFIT, GROSS 53.52, NET -134.83
+2020-07-06, BUY EXECUTED, Price: 5.20, Cost: 9588.80, Comm 95.89
+2020-08-05, SELL EXECUTED, Price: 5.12, Cost: 9588.80, Comm 94.41
+2020-08-05, OPERATION PROFIT, GROSS -147.52, NET -337.82
+2020-11-09, BUY EXECUTED, Price: 5.40, Cost: 9099.00, Comm 90.99
+   total return    norm100   drawdown  sharperatio
+0     -0.171339 -14.778471  22.869968    -1.893922
+----------------------------------------------------------------------------
+code name is 601688.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 17.53, Cost: 9414.52, Comm 94.15
+2020-03-04, SELL EXECUTED, Price: 19.25, Cost: 9414.52, Comm 103.36
+2020-03-04, OPERATION PROFIT, GROSS 921.81, NET 724.31
+2020-06-29, BUY EXECUTED, Price: 18.97, Cost: 10055.21, Comm 100.55
+2020-08-07, SELL EXECUTED, Price: 21.20, Cost: 10055.21, Comm 112.36
+2020-08-07, OPERATION PROFIT, GROSS 1180.79, NET 967.87
+2020-09-14, BUY EXECUTED, Price: 20.30, Cost: 11104.10, Comm 111.04
+2020-10-21, SELL EXECUTED, Price: 21.19, Cost: 11104.10, Comm 115.91
+2020-10-21, OPERATION PROFIT, GROSS 486.83, NET 259.88
+2020-11-05, BUY EXECUTED, Price: 19.45, Cost: 11475.50, Comm 114.76
+   total return   norm100  drawdown  sharperatio
+0       0.05588  5.353843  20.40269     0.302022
+----------------------------------------------------------------------------
+code name is 601816.SH
+Start Protfolio Value 10000
+2020-03-20, BUY EXECUTED, Price: 6.22, Cost: 9560.45, Comm 95.60
+2020-04-17, SELL EXECUTED, Price: 6.23, Cost: 9560.45, Comm 95.76
+2020-04-17, OPERATION PROFIT, GROSS 15.37, NET -175.99
+2020-05-11, BUY EXECUTED, Price: 6.40, Cost: 9387.04, Comm 93.87
+2020-08-24, SELL EXECUTED, Price: 6.28, Cost: 9387.04, Comm 92.13
+2020-08-24, OPERATION PROFIT, GROSS -174.28, NET -360.28
+2020-09-29, BUY EXECUTED, Price: 5.86, Cost: 9018.54, Comm 90.19
+2020-11-06, SELL EXECUTED, Price: 5.66, Cost: 9018.54, Comm 87.11
+2020-11-06, OPERATION PROFIT, GROSS -307.80, NET -485.09
+2020-12-30, BUY EXECUTED, Price: 5.58, Cost: 8559.72, Comm 85.60
+   total return    norm100   drawdown  sharperatio
+0     -0.170452 -15.228167  18.797929    -5.421635
+----------------------------------------------------------------------------
+code name is 601818.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 3.58, Cost: 9449.62, Comm 94.50
+2020-03-05, SELL EXECUTED, Price: 3.66, Cost: 9449.62, Comm 96.74
+2020-03-05, OPERATION PROFIT, GROSS 224.40, NET 33.16
+2020-03-19, BUY EXECUTED, Price: 3.41, Cost: 9478.13, Comm 94.78
+2020-04-16, SELL EXECUTED, Price: 3.39, Cost: 9478.13, Comm 94.26
+2020-04-16, OPERATION PROFIT, GROSS -52.26, NET -241.30
+2020-06-15, BUY EXECUTED, Price: 3.53, Cost: 9275.56, Comm 92.76
+2020-08-04, SELL EXECUTED, Price: 3.82, Cost: 9275.56, Comm 100.31
+2020-08-04, OPERATION PROFIT, GROSS 755.76, NET 562.69
+2020-10-15, BUY EXECUTED, Price: 3.96, Cost: 9808.92, Comm 98.09
+2021-01-11, SELL EXECUTED, Price: 3.93, Cost: 9808.92, Comm 97.35
+2021-01-11, OPERATION PROFIT, GROSS -74.31, NET -269.75
+2021-01-20, BUY EXECUTED, Price: 4.17, Cost: 9486.75, Comm 94.87
+   total return   norm100  drawdown  sharperatio
+0      0.008062  0.755245  17.10957    -0.193954
+----------------------------------------------------------------------------
+code name is 601857.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 5.04, Cost: 9441.42, Comm 94.41
+2020-03-05, SELL EXECUTED, Price: 5.00, Cost: 9441.42, Comm 93.69
+2020-03-05, OPERATION PROFIT, GROSS -72.11, NET -260.22
+2020-03-19, BUY EXECUTED, Price: 4.75, Cost: 9233.52, Comm 92.34
+2020-07-01, SELL EXECUTED, Price: 4.10, Cost: 9233.52, Comm 79.66
+2020-07-01, OPERATION PROFIT, GROSS -1267.61, NET -1439.61
+2020-07-07, BUY EXECUTED, Price: 4.67, Cost: 7967.08, Comm 79.67
+2020-08-05, SELL EXECUTED, Price: 4.43, Cost: 7967.08, Comm 75.66
+2020-08-05, OPERATION PROFIT, GROSS -400.80, NET -556.14
+2020-08-31, BUY EXECUTED, Price: 4.34, Cost: 7337.69, Comm 73.38
+2020-10-19, SELL EXECUTED, Price: 4.11, Cost: 7337.69, Comm 69.42
+2020-10-19, OPERATION PROFIT, GROSS -395.90, NET -538.70
+2020-11-11, BUY EXECUTED, Price: 4.20, Cost: 6841.80, Comm 68.42
+   total return    norm100  drawdown  sharperatio
+0     -0.344174 -27.474317  30.22113    -1.035994
+----------------------------------------------------------------------------
+code name is 601888.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 79.98, Cost: 9437.07, Comm 94.37
+2020-03-05, SELL EXECUTED, Price: 79.61, Cost: 9437.07, Comm 93.94
+2020-03-05, OPERATION PROFIT, GROSS -43.51, NET -231.81
+2020-03-17, BUY EXECUTED, Price: 77.46, Cost: 9218.26, Comm 92.18
+2020-08-27, SELL EXECUTED, Price: 201.50, Cost: 9218.26, Comm 239.78
+2020-08-27, OPERATION PROFIT, GROSS 14760.24, NET 14428.27
+2020-12-18, BUY EXECUTED, Price: 222.78, Cost: 22500.78, Comm 225.01
+   total return     norm100  drawdown  sharperatio
+0      1.329814  245.962305       0.0      1.28764
+----------------------------------------------------------------------------
+code name is 603160.SH
+Start Protfolio Value 10000
+2020-03-06, BUY EXECUTED, Price: 304.22, Cost: 9126.70, Comm 91.27
+2020-08-20, SELL EXECUTED, Price: 203.00, Cost: 9126.70, Comm 60.90
+2020-08-20, OPERATION PROFIT, GROSS -3036.70, NET -3188.87
+2020-08-26, BUY EXECUTED, Price: 187.01, Cost: 6358.34, Comm 63.58
+2020-09-24, SELL EXECUTED, Price: 164.52, Cost: 6358.34, Comm 55.94
+2020-09-24, OPERATION PROFIT, GROSS -764.66, NET -884.18
+2020-12-31, BUY EXECUTED, Price: 156.01, Cost: 5616.36, Comm 56.16
+   total return    norm100   drawdown  sharperatio
+0      -0.71809 -48.840274  52.150534    -2.429251
+----------------------------------------------------------------------------
+code name is 603259.SH
+Start Protfolio Value 10000
+2020-02-12, BUY EXECUTED, Price: 75.37, Cost: 9647.64, Comm 96.48
+2020-07-29, SELL EXECUTED, Price: 107.00, Cost: 9647.64, Comm 136.96
+2020-07-29, OPERATION PROFIT, GROSS 4048.36, NET 3814.92
+2020-09-09, BUY EXECUTED, Price: 99.40, Cost: 12922.00, Comm 129.22
+   total return   norm100  drawdown  sharperatio
+0      0.893129  130.1559  1.089619     2.329311
+----------------------------------------------------------------------------
+code name is 603288.SH
+Start Protfolio Value 10000
+2020-02-07, BUY EXECUTED, Price: 86.41, Cost: 9418.21, Comm 94.18
+2020-05-06, SELL EXECUTED, Price: 100.31, Cost: 9418.21, Comm 109.34
+2020-05-06, OPERATION PROFIT, GROSS 1515.67, NET 1312.15
+2020-05-18, BUY EXECUTED, Price: 110.22, Cost: 10691.34, Comm 106.91
+2020-06-11, SELL EXECUTED, Price: 113.79, Cost: 10691.34, Comm 110.38
+2020-06-11, OPERATION PROFIT, GROSS 346.29, NET 129.00
+2020-06-30, BUY EXECUTED, Price: 124.64, Cost: 10843.68, Comm 108.44
+2020-11-13, SELL EXECUTED, Price: 164.00, Cost: 10843.68, Comm 142.68
+2020-11-13, OPERATION PROFIT, GROSS 3424.32, NET 3173.20
+2020-12-08, BUY EXECUTED, Price: 181.99, Cost: 13831.24, Comm 138.31
+2021-01-07, SELL EXECUTED, Price: 206.60, Cost: 13831.24, Comm 157.02
+2021-01-07, OPERATION PROFIT, GROSS 1870.36, NET 1575.03
+   total return    norm100  drawdown  sharperatio
+0       0.48177  56.776715  8.827093     1.031987
+----------------------------------------------------------------------------
+code name is 603501.SH
+Start Protfolio Value 10000
+2020-03-03, BUY EXECUTED, Price: 173.08, Cost: 9519.40, Comm 95.19
+2020-06-09, SELL EXECUTED, Price: 183.07, Cost: 9519.40, Comm 100.69
+2020-06-09, OPERATION PROFIT, GROSS 549.45, NET 353.57
+2020-06-30, BUY EXECUTED, Price: 202.00, Cost: 9898.00, Comm 98.98
+2020-08-24, SELL EXECUTED, Price: 185.25, Cost: 9898.00, Comm 90.77
+2020-08-24, OPERATION PROFIT, GROSS -820.75, NET -1010.50
+2020-09-02, BUY EXECUTED, Price: 168.00, Cost: 8736.00, Comm 87.36
+2020-12-31, SELL EXECUTED, Price: 228.90, Cost: 8736.00, Comm 119.03
+2020-12-31, OPERATION PROFIT, GROSS 3166.80, NET 2960.41
+2021-01-12, BUY EXECUTED, Price: 272.12, Cost: 11429.04, Comm 114.29
+2021-02-09, SELL EXECUTED, Price: 305.10, Cost: 11429.04, Comm 128.14
+2021-02-09, OPERATION PROFIT, GROSS 1385.16, NET 1142.73
+   total return    norm100  drawdown  sharperatio
+0      0.296112  31.833688  6.004426     2.205774
+----------------------------------------------------------------------------
+code name is 603986.SH
+Start Protfolio Value 10000
+2020-02-25, BUY EXECUTED, Price: 279.62, Cost: 9227.40, Comm 92.27
+2020-04-07, SELL EXECUTED, Price: 192.59, Cost: 9227.40, Comm 63.56
+2020-04-07, OPERATION PROFIT, GROSS -2871.79, NET -3027.62
+2020-05-08, BUY EXECUTED, Price: 225.01, Cost: 6525.29, Comm 65.25
+2020-08-24, SELL EXECUTED, Price: 205.19, Cost: 6525.29, Comm 59.51
+2020-08-24, OPERATION PROFIT, GROSS -574.78, NET -699.54
+2020-10-13, BUY EXECUTED, Price: 187.95, Cost: 5826.45, Comm 58.26
+   total return    norm100   drawdown  sharperatio
+0      -0.49732 -37.134019  43.225508    -1.536311
